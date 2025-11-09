@@ -24,12 +24,9 @@ Program ini merupakan aplikasi Program Rental Mobil, di mana pengguna dapat memi
 ![alt text](https://github.com/walfihen/Program-Rental-Mobil/blob/main/Sreenshot/ss%20output.png?raw=true)
 
 ## Cara Menjalankan
-1. Download file rental_mobil.py
-2. Jalankan di terminal atau VS Code dengan perintah:
-  [Lihat kode sistem rental_mobil.py](sistemr.py)
-3. Ikuti instruksi input di layar:
-     - <p>Pilih jenis mobil<p/>
-     - <p>Masukkan lama sewa<p/>
-     - <p>Lihat total biaya<p/>
-4. Ketik n jika tidak ingin menyewa lagi
+1. Download file `[sistem rental mobil].py`
+2. Run di Python: `python [sistem rental mobil].py`
+3. Ikuti instruksi input
+  
+    
 
