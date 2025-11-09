@@ -26,7 +26,7 @@ Program ini merupakan aplikasi Program Rental Mobil, di mana pengguna dapat memi
 ## Cara Menjalankan
 1. Download file rental_mobil.py
 2. Jalankan di terminal atau VS Code dengan perintah:
-3. python rental_mobil.py
+  [Lihat kode sistem rental_mobil.py](sistemr.py)
 3. Ikuti instruksi input di layar:
      - <p>Pilih jenis mobil<p/>
      - <p>Masukkan lama sewa<p/>
